@@ -1,0 +1,9 @@
+/* This file is intentionally created to showcase Tailwind CSS usage for GitHub language statistics. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Example Tailwind utility classes for GitHub language detection */
+.example {
+  @apply bg-blue-500 text-white p-4 rounded shadow-lg hover:bg-blue-600;
+}
