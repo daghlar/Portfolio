@@ -124,10 +124,10 @@ pnpm start     # or npm run start / yarn start
 ## 👤 Author
 **Daghlar Mammadov**  
 Computer Engineering Student, Cybersecurity Expert, Software Developer, AI Enthusiast
-- [GitHub](https://github.com/xdaghlar)
-- [Matrix](https://matrix.to/#/@xdaghlar:matrix.org)
-- [Bluesky](https://bsky.app/profile/xdaghlar.bsky.social)
-- [Email](mailto:daghlar@protonmail.com)
+- [GitHub](https://github.com/daghlar)
+- [Matrix](https://matrix.to/#/@daghlar:matrix.org)
+- [Bluesky](https://bsky.app/profile/daghlar.bsky.social)
+- [Email](protonmail:daghlarmammadov@proton.me)
 
 ---
 
